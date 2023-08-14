@@ -24,7 +24,7 @@ for ii=1:10 % 呼叫Truss_2D函數，將元素(ii)的上述5個矩陣指派給M(
     end
 end
 for ii=1:10
-    K=K+M(ii).K;
+    K=K+M(ii).K; % 執行Direct stiffness method
 end
 % F=K*U
 % F[]=[0 0 0 -F 0 0 0 -F na na na na]' (na:未知)
