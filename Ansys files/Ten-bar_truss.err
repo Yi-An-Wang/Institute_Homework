@@ -64,3 +64,18 @@
  Command is only functional after a plot                                 
   has been performed.  - Command ignored.                                
 /COM,ANSYS RELEASE 2023 R2           BUILD 23.2      UP20230531       15:59:23
+/COM,ANSYS RELEASE 2023 R2           BUILD 23.2      UP20230531       09:36:31
+
+ *** ERROR ***                           CP =       1.156   TIME= 10:07:59
+ An unexpected error ( SIG$BREAK ) has occurred...  MAPDL internal data  
+ has been corrupted.  MAPDL is unable to recover and will terminate.     
+ Previously saved files are unaffected.  Please send the data leading    
+ to this operation to your technical support provider, as this will      
+ allow ANSYS, Inc to improve the program.                                
+
+ *** ERROR ***                           CP =       1.188   TIME= 10:07:59
+ An unexpected error ( SIG$SEGV ) has occurred...  MAPDL internal data   
+ has been corrupted.  MAPDL is unable to recover and will terminate.     
+ Previously saved files are unaffected.  Please send the data leading    
+ to this operation to your technical support provider, as this will      
+ allow ANSYS, Inc to improve the program.                                
